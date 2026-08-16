@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erick086&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Erick086&hide_border=true" alt="streak stats" />
 </p>
 
 <p align="center">
