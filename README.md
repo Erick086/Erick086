@@ -1,135 +1,79 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Erick Souza</h2>
+<h1 align="center">Olá, eu sou o Erick 👋</h1>
 
-###
+<h3 align="center">Desenvolvedor apaixonado por dados | Python • Pandas • Jupyter</h3>
 
-<div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erick086&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick086&layout=compact&theme=dracula" height="150" alt="languages graph" />
-</div>
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Analisando+dados+com+Python+%F0%9F%90%8D;Explorando+o+mundo+com+Pandas+%F0%9F%90%BC;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-<img align="center" src="https://github.com/Erick086/Erick086/blob/output/github-contribution-grid-snake.svg" />
+---
 
+### 🚀 Sobre mim
 
-###
+- 🔭 Trabalho principalmente com **Python**, **Pandas** e **Jupyter Notebook**
+- 📊 Gosto de transformar dados em informações úteis
+- 🌱 Sempre buscando aprender novas ferramentas de análise de dados
+- 💬 Fico à vontade para trocar ideia sobre Python e dados
+- 📫 Como me encontrar: veja os links abaixo!
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+---
 
-###
+### 🛠️ Tecnologias e Ferramentas
 
-<div data-importer="socials" align="left">
-  <a href="https://www.instagram.com/erikepx?igsh=YXZ6czF1cjNucWRr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Erick086&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick086&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erick086&hide_border=true" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Erick086&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
+</p>
+
+---
+
+### 🐍 Contribuições (Cobrinha animada)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Erick086/Erick086/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🎬 Um gif só porque sim
+
+<p align="center">
+  <img src="https://media.tenor.com/Zo6h8dX3h6UAAAC/anime-study.gif" alt="anime study gif" width="300" />
+</p>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/erick-souza-da-silva-737564428" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/erikezadaa_15527" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://www.instagram.com/erikepx" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/erick-souza-da-silva-737564428?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:erikee022@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Erick086/Erick086/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div data-importer="socials" align="left">
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Erick086/Erick086/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Erick086/Erick086/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Erick086/Erick086/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Erick086/Erick086/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Erick086/Erick086/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Erick086/Erick086/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Erick086/Erick086/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Erick086/Erick086/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Erick086/Erick086/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Erick086/Erick086/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.tenor.com/Zo6h8dX3h6UAAA"  />
-</div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Erick086/Erick086/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.tenor.com/Zo6h8dX3h6UAAA"  />
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Erick086/Erick086/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Erick086/Erick086/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="left">
-</div>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Erick086&label=Visualizações+de+Perfil&color=2F80ED&style=flat" alt="visitor badge"/>
+</p>
