@@ -56,7 +56,7 @@
 ### 🎬 Um gif só porque sim
 
 <p align="center">
-  <img src="https://media.tenor.com/Zo6h8dX3h6UAAAC/anime-study.gif" alt="anime study gif" width="300" />
+  <img src="https://media1.tenor.com/m/LkQzw7k5DV4AAAAd/anime-hacking.gif" alt="anime hacking gif" width="300" />
 </p>
 
 ---
